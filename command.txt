@@ -10,3 +10,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/samiul94/gitrepository.git
 git push -u origin main
+
+terminal shortcut to open in vscode:
+command+j
+
+to close sidebar of vscode
+command+b 
+
+I am successful to push my txt file to github from vscode. 
