@@ -17,6 +17,9 @@ command+j
 to close sidebar of vscode
 command+b 
 
+Three commands: 
+add + commit + push 
+
 I am successful to push my txt file to github from vscode. 
 
 I am very happy to do this task. 
